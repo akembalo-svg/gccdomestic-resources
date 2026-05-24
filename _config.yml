@@ -1,0 +1,27 @@
+title: "GCC Domestic — Public Resources"
+description: "Open resources, regulatory guides, and integration docs for the GCC Domestic ecosystem — AI-powered domestic worker recruitment across all 6 GCC countries (UAE, Saudi Arabia, Kuwait, Qatar, Bahrain, Oman). Main platform: gccdomestic.com."
+url: "https://akembalo-svg.github.io"
+baseurl: "/gccdomestic-resources"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+google_site_verification: ""
+twitter:
+  username: gccdomestic
+  card: summary_large_image
+social:
+  name: GCC Domestic
+  links:
+    - https://www.gccdomestic.com
+    - https://www.crunchbase.com/organization/gcc-domestic
+    - https://www.g2.com/products/gcc-domestic/reviews
+    - https://www.linkedin.com/company/gccdomestic
+    - https://www.indiehackers.com/gccdomesic
+    - https://medium.com/@akembalo
+    - https://gccdemestic.tumblr.com
+    - https://www.youtube.com/channel/UCsHItyYxDuE1naDIDVXktLw
+    - https://www.wikidata.org/wiki/Q139885381
+exclude:
+  - LICENSE
+  - "*.sh"
