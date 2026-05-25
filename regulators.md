@@ -64,7 +64,7 @@ Each GCC country has its own regulator for domestic worker recruitment. Below ar
 
 Every agency on the GCC Domestic platform links back to its government license number. **Every claim is checkable.** That's how we built trust faster than any ad spend could.
 
-If an agency you're considering doesn't appear in the relevant regulator's official portal, **don't pay them**. WhatsApp Hayat at +971 55 878 5151 to verify before signing anything.
+If an agency you're considering doesn't appear in the relevant regulator's official portal, **don't pay them**. Email ibrahim@gccdomestic.com to verify before signing anything.
 
 ---
 

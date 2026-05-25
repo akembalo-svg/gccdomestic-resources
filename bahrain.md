@@ -25,7 +25,7 @@ Bahrain's **LMRA** (Labour Market Regulatory Authority) licenses and supervises 
 
 Free on WhatsApp.
 
-**👉 WhatsApp +971 55 878 5151**
+**👉 Contact us: ibrahim@gccdomestic.com**
 
 ---
 

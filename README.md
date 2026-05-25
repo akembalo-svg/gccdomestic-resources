@@ -1,7 +1,7 @@
 # GCC Domestic — Public Resources
 
 [![Website](https://img.shields.io/badge/Website-gccdomestic.com-blue)](https://www.gccdomestic.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B971_55_878_5151-25D366)](https://wa.me/971558785151)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B971_55_878_5151-25D366)](https://gccdomestic.com)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q139885381-blueviolet)](https://www.wikidata.org/wiki/Q139885381)
 
 > Open resources, documentation, and tools for the **GCC Domestic** ecosystem — AI-powered platform connecting Gulf families with government-verified domestic worker recruitment agencies across all 6 GCC countries.
@@ -79,7 +79,7 @@ Documentation: **CC0 1.0 Universal** (public domain)
 - **All blog posts:** https://www.gccdomestic.com/en/blog/
 - **Tadbeer/Agency directory:** https://www.gccdomestic.com/uae/agencies/
 - **Press kit:** https://www.gccdomestic.com/press/
-- **WhatsApp:** [+971 55 878 5151](https://wa.me/971558785151)
+- **WhatsApp:** [ibrahim@gccdomestic.com](https://gccdomestic.com)
 - **Founded by:** Ibrahim Kedir, Dubai, UAE, 2024
 
 ---

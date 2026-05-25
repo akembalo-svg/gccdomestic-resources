@@ -31,7 +31,7 @@ Qatar's Law 15/2017 set the regional benchmark for domestic worker protections �
 
 Free on WhatsApp.
 
-**👉 WhatsApp +971 55 878 5151**
+**👉 Contact us: ibrahim@gccdomestic.com**
 
 ---
 
