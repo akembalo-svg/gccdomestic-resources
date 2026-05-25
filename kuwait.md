@@ -26,7 +26,7 @@ Kuwait regulates domestic worker recruitment through **PAM** (Public Authority f
 
 Hayat speaks Kuwaiti Arabic and understands PAM's process. Free on WhatsApp.
 
-**👉 Contact us: ibrahim@gccdomestic.com**
+**👉 Contact us: info@gccdomestic.com**
 
 ---
 

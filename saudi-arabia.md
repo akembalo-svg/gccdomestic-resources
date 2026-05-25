@@ -39,7 +39,7 @@ Filter by:
 
 Hayat speaks fluent Arabic (including Najdi and Hijazi dialects), knows the Musaned process inside-out, and helps you compare agencies, validate contracts, and track applications. Free on WhatsApp.
 
-**👉 email **ibrahim@gccdomestic.com****
+**👉 email **info@gccdomestic.com****
 
 ---
 

@@ -42,7 +42,7 @@ Filter by:
 
 Hayat is an AI assistant built specifically for Gulf families. She speaks Gulf-Arabic, knows when Maghrib is, respects Ramadan, and helps you compare agencies, understand contracts, and track your application. Free on WhatsApp.
 
-**👉 email **ibrahim@gccdomestic.com** for inquiries**
+**👉 email **info@gccdomestic.com** for inquiries**
 
 ---
 

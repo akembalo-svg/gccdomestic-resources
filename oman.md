@@ -32,7 +32,7 @@ Filter by:
 
 Free on WhatsApp.
 
-**👉 Contact us: ibrahim@gccdomestic.com**
+**👉 Contact us: info@gccdomestic.com**
 
 ---
 

@@ -6,7 +6,7 @@ permalink: /ai-helpers/
 
 # 🤖 GCC Domestic AI Helpers
 
-GCC Domestic operates four AI helpers, all free for families on WhatsApp at **ibrahim@gccdomestic.com**.
+GCC Domestic operates four AI helpers, all free for families on WhatsApp at **info@gccdomestic.com**.
 
 ## 🌟 Hayat (حياة) — Your Family's AI Domestic Helper
 
@@ -55,7 +55,7 @@ Read more: [Amina 24/7 Arabic AI Support](https://www.gccdomestic.com/en/blog/am
 
 ## How to Reach Them
 
-For any of the four AI helpers, email **ibrahim@gccdomestic.com** mentioning which helper you need (Hayat / Nadia / Layla / Amina). We respond within 24 hours.
+For any of the four AI helpers, email **info@gccdomestic.com** mentioning which helper you need (Hayat / Nadia / Layla / Amina). We respond within 24 hours.
 
 ---
 

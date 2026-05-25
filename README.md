@@ -79,7 +79,7 @@ Documentation: **CC0 1.0 Universal** (public domain)
 - **All blog posts:** https://www.gccdomestic.com/en/blog/
 - **Tadbeer/Agency directory:** https://www.gccdomestic.com/uae/agencies/
 - **Press kit:** https://www.gccdomestic.com/press/
-- **WhatsApp:** [ibrahim@gccdomestic.com](https://gccdomestic.com)
+- **WhatsApp:** [info@gccdomestic.com](https://gccdomestic.com)
 - **Founded by:** Ibrahim Kedir, Dubai, UAE, 2024
 
 ---

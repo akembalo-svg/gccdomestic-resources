@@ -73,7 +73,7 @@ Aggregated from 1,300+ verified agencies on the GCC Domestic platform. Salaries 
 
 **Free updates:** subscribe to [GCC Domestic Insider on Substack](https://gccdomestic.substack.com) for monthly salary refresh.
 
-**Verify with Hayat:** Email ibrahim@gccdomestic.com to get a salary quote for your specific situation.
+**Verify with Hayat:** Email info@gccdomestic.com to get a salary quote for your specific situation.
 
 ---
 
