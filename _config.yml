@@ -25,3 +25,7 @@ social:
 exclude:
   - LICENSE
   - "*.sh"
+
+include:
+  - business.json
+
