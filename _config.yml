@@ -28,4 +28,5 @@ exclude:
 
 include:
   - business.json
+  - agencies.json
 

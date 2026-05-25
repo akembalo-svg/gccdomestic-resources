@@ -1,0 +1,2009 @@
+{
+  "name": "GCC Domestic — Verified Agency Directory",
+  "@type": "ItemList",
+  "@context": "https://schema.org",
+  "description": "Government-licensed domestic worker recruitment agencies across all 6 GCC countries",
+  "numberOfItems": 1544,
+  "itemListElement": [
+    {
+      "url": "https://www.gccdomestic.com/agency/bareaq-allamaan/",
+      "name": "BAREAQ ALLAMAAN MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jidhafs"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/target-manpower-bh/",
+      "name": "TARGET FOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Muharraq"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-esraa/",
+      "name": "AL ESRAA RECRUITING MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Shahrakkan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/karawan-palace-manpower/",
+      "name": "KARAWAN PALACE MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/casablanca-supply/",
+      "name": "CASABLANCA SUPPLY SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Maqsha"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alsaadah-recruiting/",
+      "name": "ALSAADAH RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Tubli"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/taylos-manpower/",
+      "name": "TAYLOS MANPOWER EST.",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/darwish-manpower/",
+      "name": "DARWISH MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jabalt Habshi"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/nouf-manpower/",
+      "name": "NOUF MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alwillaya-star/",
+      "name": "ALWILLAYA STAR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Malkiya"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alwalid-manpower/",
+      "name": "ALWALID MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Malkiya"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/aldiriyah-manpower/",
+      "name": "ALDIRIYAH MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/shams-alshmoos-manpower/",
+      "name": "SHAMS ALSHMOOS MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "North Sehla"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/crystalia-manpower/",
+      "name": "CRYSTALIA MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Ramli"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/tuhama-manpower/",
+      "name": "TUHAMA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/lazord-manpower/",
+      "name": "LAZORD MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/i-active/",
+      "name": "I ACTIVE RECRUITING MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Aldiraz"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/ultra-manpower/",
+      "name": "ULTRA FOR MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Aali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alnoor-manpower/",
+      "name": "ALNOOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/aljenaid-manpower/",
+      "name": "ALJENAID MANPOWER W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/havana-manpower/",
+      "name": "HAVANA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/buduaij-labor-supply/",
+      "name": "BUDUAIJ LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/universal-manpower-spc/",
+      "name": "UNIVERSAL MANPOWER CO SPC",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Newedrat"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/abu-muneer-manpower/",
+      "name": "ABU MUNEER MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jurdab"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/khalid-alasoomi-manpower/",
+      "name": "KHALID ALASOOMI MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/dilmun-manpower/",
+      "name": "DILMUN MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/home-helper/",
+      "name": "HOME HELPER SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Karzakkan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alraha-manpower/",
+      "name": "ALRAHA MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Diraz"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/fast-line/",
+      "name": "FAST LINE MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Kharijiyah"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/purity-working/",
+      "name": "PURITY WORKING HANDS",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Karzakkan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/future-manpower-services/",
+      "name": "FUTURE MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alhaiki-manpower-services/",
+      "name": "ALHAIKI MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alsamar-manpower/",
+      "name": "ALSAMAR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Seef"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alkowari-bh/",
+      "name": "ALKOWARI MAN POWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/evian-manpower/",
+      "name": "EVIAN MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "البسيتين"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alkhalid-manpower/",
+      "name": "ALKHALID MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/rita-manpower-agency/",
+      "name": "RITA MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Sanad"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/albi-supply/",
+      "name": "ALBI LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "المحرق"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/share-care/",
+      "name": "SHARE THE CARE RECRUITING MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "المنامة"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-mansoori-bh/",
+      "name": "AL MANSOORI MANPOWER W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alhanoona-employment/",
+      "name": "ALHANOONA EMPLOYMENT OFFICE",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alyaqoot-star-manpower/",
+      "name": "ALYAQOOT STAR SUPPLY MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Damistan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/speed-manpower/",
+      "name": "SPEED MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alfarah-recruiting/",
+      "name": "ALFARAH RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "البسيتين"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/dilmunia-manpower/",
+      "name": "DILMUNIA FOR MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Buri"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/fresh-touch/",
+      "name": "FRESH TOUCH MANPOWER SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "الرفاع"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/noor-alshams-employment/",
+      "name": "NOOR ALSHAMS EMPLOYMENT OFFICE",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Qalali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/sarah-manpower/",
+      "name": "SARAH MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-riffa/",
+      "name": "AL RIFFA FOR RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "الرفاع"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/super-clean-manpower-clearance/",
+      "name": "SUPER CLEAN MANPOWER AND CLEARANCE",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Damistan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/manila-manpower-bh/",
+      "name": "MANILA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/anwar-alrehab/",
+      "name": "AGENCY ANWAR ALREHAB FOR RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Bani Jamrah"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/sadiq-yusuf/",
+      "name": "SADIQ YUSUF YAQOOB",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Sanabis"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/outshine/",
+      "name": "OUTSHINE WORKERS SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "الرفاع"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/inaba-recruiting/",
+      "name": "INABA RECRUITING SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Allawzi"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/zajil-manpower/",
+      "name": "ZAJIL MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Sar"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/mazaya-manpower-services/",
+      "name": "MAZAYA MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Tubli"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alajwaa-alnadeefa/",
+      "name": "ALAJWAA ALNADEEFA RECRUITING SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Karzakkan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/babel-manpower-agency/",
+      "name": "BABEL MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/rahaf-manpower/",
+      "name": "RAHAF MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Sayh"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/yousif-manpower/",
+      "name": "YOUSIF MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "East Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/dar-alamani/",
+      "name": "DAR ALAMANI SUPPLY SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Malkiya"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/quality-manpower-bh/",
+      "name": "QUALITY MANPOWER CO. W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/delmon-land-manpower/",
+      "name": "DELMON LAND INTERNATIONAL MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/dazzle-manpower/",
+      "name": "DAZZLE MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/la-land-manpower/",
+      "name": "LA LAND MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Muharraq"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/promise-gate-bh/",
+      "name": "PROMISE GATE MANPOWER W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Arad"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/bahrain-tower-manpower/",
+      "name": "BAHRAIN TOWER FOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/noon-manpower/",
+      "name": "NOON MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Isa Town"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alamin-manpower-services/",
+      "name": "ALAMIN MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/falak-manpower/",
+      "name": "FALAK MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Qurayyah"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alqadsiya-manpower/",
+      "name": "ALQADSIYA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/top-manpower-service/",
+      "name": "TOP MANPOWER SERVICE",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/arados-manpower-services/",
+      "name": "ARADOS MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/taj-mahal-employment/",
+      "name": "TAJ MAHAL EMPLOYMENT",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Busaiteen"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alrayes-manpower-services/",
+      "name": "ALRAYES MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/bab-alrayan/",
+      "name": "BAB ALRAYAN FOR RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Malkiya"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/bu-yousif/",
+      "name": "BU YOUSIF AGENCY FOR LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jidhafs"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/optimal-manpower/",
+      "name": "OPTIMAL MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Markh"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alfahad-bh/",
+      "name": "ALFAHAD SERVICES & MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/albareeq-manpower/",
+      "name": "ALBAREEQ MANPOWER SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Hamalah"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alnashat-manpower-services/",
+      "name": "ALNASHAT MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Muharraq"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/protech-manpower-services/",
+      "name": "PROTECH MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Abu Al Ayash"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/albaraka-manpower-bh/",
+      "name": "ALBARAKA MANPOWER BH",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Arad"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alwasil-bh/",
+      "name": "ALWASIL MANPOWER & TRADING SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/almass-manpower/",
+      "name": "ALMASS MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Isa Town"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/manama-manpower/",
+      "name": "MANAMA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/royal-manpower/",
+      "name": "ROYAL MANPOWER W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alfaiha-manpower-services/",
+      "name": "ALFAIHA MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/sweep-off/",
+      "name": "SWEEP OFF FOR HOME MANPOWER RECRUITING",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jidhafs"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/we-clean/",
+      "name": "WE CLEAN MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Aali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/esnad-manpower/",
+      "name": "ESNAD MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Seef"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-nasar/",
+      "name": "AL-NASAR AL-ALAMI MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Adistan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/deeb-care/",
+      "name": "DEEB CARE FOR MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Janosan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/ahmadi-manpower/",
+      "name": "AHMADI MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Sanabis"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/nabaa-manpower/",
+      "name": "NABAA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Tubli"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/staffer-manpower/",
+      "name": "STAFFER W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/aldar-manpower-services/",
+      "name": "ALDAR MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Qalali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/moonshine-recruiting/",
+      "name": "MOONSHINE RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Sanad"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/acacia-manpower/",
+      "name": "ACACIA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/clean-vi/",
+      "name": "CLEAN VI FOR MANPOWER SUPPLYING",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Akr Al Gharbi"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/square-manpower/",
+      "name": "SQUARE MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/almasarah-manpower/",
+      "name": "ALMASARAH FOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Qalali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/gulf-tower/",
+      "name": "GULF TOWER FOR HOME MANPOWER RECRUITING",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jannusan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/future-gate/",
+      "name": "THE FUTURE GATE MANPOWER SUPPLY AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Hidd"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alshorooq-manpower/",
+      "name": "ALSHOROOQ MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/aseel-manpower-agency/",
+      "name": "ASEEL MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/pegasus-manpower-services/",
+      "name": "PEGASUS MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/tulip-manpower/",
+      "name": "TULIP MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Hamad Town"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/victory-manpower/",
+      "name": "VICTORY MANPOWER AND GOVERNMENT TRANSITIONS CLEARING",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Busaiteen"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/trust-manpower-wll-bh/",
+      "name": "TRUST MANPOWER W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/aminia-recruitment-agency/",
+      "name": "AMINIA RECRUITMENT AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/pure-shine/",
+      "name": "PURE SHINE FOR SUPPLYING DOMESTIC WORKERS",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "عراد"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/noor-manpower/",
+      "name": "NOOR MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Murqoban"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/cleaning-hour/",
+      "name": "CLEANING HOUR FOR LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Shahrakkan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/albaroon-manpower/",
+      "name": "ALBAROON MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/best-cleaning/",
+      "name": "BEST CLEANING SERVICE FOR RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "المنامة"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/oasis-manpower/",
+      "name": "OASIS MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Maqabah"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/the-noble-servant-manpower/",
+      "name": "THE NOBLE SERVANT MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Isa Town"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/leaders-international-recruitment/",
+      "name": "LEADERS INTERNATIONAL RECRUITMENT",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/yanba-manpower-services/",
+      "name": "YANBA MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Diraz"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/advice-recruiting/",
+      "name": "ADVICE RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Adistan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alnahham-supply/",
+      "name": "ALNAHHAM FOR LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Hidd"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/maraeem-manpower/",
+      "name": "MARAEEM MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/real-manpower-services/",
+      "name": "REAL MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/valor-manpower/",
+      "name": "VALOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Sanad"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/sparkling-hand/",
+      "name": "SPARKLING HAND FOR MANPOWER RECRUITING",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "المنامة"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/jeloo-supply/",
+      "name": "JELOO LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Seef"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/mohsin-yousif-manpower/",
+      "name": "MOHSIN YOUSIF MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/fortune-global-recruitment/",
+      "name": "FORTUNE GLOBAL RECRUITMENT AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Isa Town"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/super-care/",
+      "name": "SUPER CARE FOR RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "الدير"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/muharraq-manpower/",
+      "name": "MUHARRAQ MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Muharraq"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-qaidoom-manpower/",
+      "name": "AL QAIDOOM MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/clean-up-labor-supply/",
+      "name": "CLEAN UP FOR LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/almaaly-manpower/",
+      "name": "ALMAALY MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/sun-light/",
+      "name": "SUN LIGHT FOR MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Dar Kulaib"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alraed-employment/",
+      "name": "ALRAED EMPLOYMENT",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/cleanzo-manpower/",
+      "name": "CLEANZO FOR MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Qalali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/the-family-manpower/",
+      "name": "THE FAMILY MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Muharraq"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/anwar-manpower-services/",
+      "name": "ANWAR MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Muharraq"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/perfect-manpower/",
+      "name": "PERFECT MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/gulf-network-manpower/",
+      "name": "GULF NETWORK MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-dawlah-employment/",
+      "name": "AL DAWLAH FOR EMPLOYMENT",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/pioneer-manpower/",
+      "name": "PIONEER MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/bukhalifa-manpower/",
+      "name": "BUKHALIFA MANPOWER SUPPLY PER HOUR",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "عراد"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alasfoor-public-relations/",
+      "name": "ALASFOOR FOR PUBLIC RELATIONS",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Maameer"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/green-bubbles-manpower/",
+      "name": "GREEN BUBBLES MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Tubli"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/marwa-moosa/",
+      "name": "MARWA MOOSA ABDULKARIM SALMAN ABBAS",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "الدير"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-leewan/",
+      "name": "AL LEEWAN WORKERS SERVICES EST",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "المنامة"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/sayed-husain/",
+      "name": "SAYED HUSAIN JABER ALAWI ALI ALKHABBAZ",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Hamalah"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alghatam-manpower/",
+      "name": "ALGHATAM MANPOWER ESTABLISHMENT",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alfursan-manpower/",
+      "name": "ALFURSAN MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-shaheen-manpower/",
+      "name": "AL SHAHEEN MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Aali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/partner-recruitment-bh/",
+      "name": "PARTNER FOR RECRUITMENT SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Sitra"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alshoala-recruitment/",
+      "name": "ALSHOALA RECRUITMENT SERVICES CO W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/essa-alshaikh-manpower/",
+      "name": "ESSA ALSHAIKH MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/ebrahim-zainal-manpower/",
+      "name": "EBRAHIM ZAINAL MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/marina-manpower/",
+      "name": "MARINA MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Maameer"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/nettoyage/",
+      "name": "NETTOYAGE SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Aali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/hader-supply/",
+      "name": "HADER LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Hamalah"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alkawther-line-manpower/",
+      "name": "ALKAWTHER LINE MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Arad"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/swar-supply/",
+      "name": "SWAR SUPPLY MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Damisyan"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/asia-public-relation-bh/",
+      "name": "ASIA PUBLIC RELATION & MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alshogel-manpower/",
+      "name": "ALSHOGEL FOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Aali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/aldurra-manpower/",
+      "name": "ALDURRA MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Diraz"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/walaa-albahrain/",
+      "name": "WALAA ALBAHRAIN FOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Kharijiyah"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/dar-almahara-employment/",
+      "name": "DAR ALMAHARA EMPLOYMENT AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jidhafs"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alhuda-manpower/",
+      "name": "ALHUDA FOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Daeh"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/happy-manpower/",
+      "name": "HAPPY MANPOWER S P C",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/bravo-manpower/",
+      "name": "BRAVO MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jidd Ali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alzohoor-wll-bh/",
+      "name": "ALZOHOOR MANPOWER CO.W.L.L.",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Sanabis"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/yathreb-services/",
+      "name": "YATHREB SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alshrooq-manpower/",
+      "name": "ALSHROOQ MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Akr Al Sharqi"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-malaki-manpower/",
+      "name": "AL MALAKI MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jurdab"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/soundlines-bh/",
+      "name": "SOUNDLINES HR CONSULTANCY W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/hajar-recruiting/",
+      "name": "HAJAR RECRUITING MANPOWER AGENCY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "عراد"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/future-house-manpower/",
+      "name": "FUTURE HOUSE MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/dar-sanad/",
+      "name": "DAR SANAD FOR HOME MANPOWER RECRUITING",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Hidd"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alameera-manpower/",
+      "name": "ALAMEERA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Tubli"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-nawras-manpower/",
+      "name": "AL NAWRAS MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jerdab"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/silicon-manpower/",
+      "name": "SILICON MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Busaiteen"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-fateh-manpower-services/",
+      "name": "AL FATEH MANPOWER SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Arad"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/fahad-khaleej-bh/",
+      "name": "FAHAD AL KHALEEJ MANPOWER COMPANY W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/saaed-employment-bh/",
+      "name": "SAAED EMPLOYMENT",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/red-rose-manpower/",
+      "name": "RED ROSE MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jerdab"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/zaina-manpower/",
+      "name": "ZAINA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jidd Ali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/umkhalifa-manpower/",
+      "name": "UMKHALIFA MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Arad"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/fresh-and/",
+      "name": "FRESH AND CLEAN FOR WORKFORCE",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Nuwaidrat"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/white-octopus/",
+      "name": "WHITE OCTOPUS FOR LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Akr Al Sharqi"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/sky-employment-bh/",
+      "name": "SKY EMPLOYMENT OFFICE W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Manama"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/alsafwa-recruiting/",
+      "name": "ALSAFWA RECRUITING MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Qalali"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/najmat-sitra/",
+      "name": "NAJMAT SITRA FOR LABOR SUPPLY",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Kharijiyah"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/bouns-recruiting-manpower/",
+      "name": "BOUNS RECRUITING MANPOWER SERVICES W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Akr Al Sharqi"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-zain/",
+      "name": "AL ZAIN MANPOWER SUPPLY SERVICES",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "المنامة"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/stafco-manpower/",
+      "name": "STAFCO MANPOWER SUPPLY AGENCY W.L.L",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Al Seef"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/fastway-manpower/",
+      "name": "FASTWAY MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "المنامة"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/maharat-labour/",
+      "name": "MAHARAT LABOUR SERVICES AGENT",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jerdab"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/top-manpower/",
+      "name": "TOP FOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jidhafs"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/al-meshal-manpower/",
+      "name": "AL MESHAL FOR MANPOWER",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Riffa"
+      }
+    },
+    {
+      "url": "https://www.gccdomestic.com/agency/smart-manpower/",
+      "name": "SMART MANPOWER SERVICE",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Bahrain",
+        "addressLocality": "Jidd Ali"
+      }
+    }
+  ]
+}
