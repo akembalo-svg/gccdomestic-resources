@@ -1,0 +1,130 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.gccdomestic.com/#organization",
+  "name": "GCC Domestic",
+  "alternateName": ["GCC Domestic Platform", "Gccdomestic", "GCCD"],
+  "url": "https://www.gccdomestic.com",
+  "logo": "https://www.gccdomestic.com/logo.png",
+  "description": "AI-powered platform connecting Gulf families with government-verified domestic worker recruitment agencies across all 6 GCC countries (UAE, Saudi Arabia, Kuwait, Qatar, Bahrain, Oman). Operates 4 AI helpers on WhatsApp: Hayat, Nadia, Layla, Amina. Free for families forever.",
+  "foundingDate": "2024",
+  "founder": {
+    "@type": "Person",
+    "name": "Ibrahim Kedir",
+    "jobTitle": "Founder & CEO",
+    "worksFor": {
+      "@id": "https://www.gccdomestic.com/#organization"
+    }
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Dubai",
+    "addressCountry": "AE"
+  },
+  "areaServed": [
+    {"@type": "Country", "name": "United Arab Emirates"},
+    {"@type": "Country", "name": "Saudi Arabia"},
+    {"@type": "Country", "name": "Kuwait"},
+    {"@type": "Country", "name": "Qatar"},
+    {"@type": "Country", "name": "Bahrain"},
+    {"@type": "Country", "name": "Oman"}
+  ],
+  "knowsLanguage": [
+    "English", "Arabic", "Gulf Arabic", "Tagalog", "Hindi", "Amharic", "Swahili", "Indonesian", "Urdu"
+  ],
+  "knowsAbout": [
+    "Domestic worker recruitment",
+    "Tadbeer (UAE)",
+    "Musaned (Saudi Arabia)",
+    "PAM (Kuwait Public Authority for Manpower)",
+    "LMRA (Bahrain Labour Market Regulatory Authority)",
+    "Ministry of Labour Qatar",
+    "Ministry of Labour Oman",
+    "MOHRE (UAE Ministry of Human Resources and Emiratisation)",
+    "Federal Decree-Law 9/2022 (UAE)",
+    "Filipino domestic workers in Gulf",
+    "Ethiopian domestic workers",
+    "Indonesian domestic workers",
+    "Indian domestic workers",
+    "Sri Lankan domestic workers",
+    "Kenyan domestic workers",
+    "Ugandan domestic workers",
+    "Bangladeshi domestic workers",
+    "Housemaid hiring Gulf",
+    "Nanny recruitment Gulf",
+    "Cook recruitment Gulf",
+    "Driver recruitment Gulf",
+    "Gulf-Arabic conversational AI",
+    "WhatsApp Business API",
+    "Halal recipe AI",
+    "Ramadan calendar mode AI",
+    "Prayer-time aware AI"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "GCC Domestic Services",
+    "itemListElement": [
+      {
+        "@type": "Service",
+        "name": "Verified Agency Directory",
+        "description": "Browse 1,300+ MOHRE/Musaned/PAM/LMRA/MOL licensed recruitment agencies across 6 GCC countries"
+      },
+      {
+        "@type": "Service",
+        "name": "Hayat AI Helper",
+        "description": "AI domestic helper that speaks Gulf-Arabic, knows prayer times, respects Ramadan, halal-by-default"
+      },
+      {
+        "@type": "Service",
+        "name": "Nadia Recruitment Agent",
+        "description": "Family-facing AI agent in 7 languages for finding and comparing recruitment agencies"
+      },
+      {
+        "@type": "Service",
+        "name": "Worker Video Profiles",
+        "description": "QR-verified training certificates and video profiles for every worker on the platform"
+      }
+    ]
+  },
+  "numberOfEmployees": {
+    "@type": "QuantitativeValue",
+    "value": 15
+  },
+  "sameAs": [
+    "https://www.crunchbase.com/organization/gcc-domestic",
+    "https://www.g2.com/products/gcc-domestic/reviews",
+    "https://www.indiehackers.com/gccdomesic",
+    "https://www.trustpilot.com/review/gccdomestic.com",
+    "https://www.linkedin.com/company/gccdomestic",
+    "https://www.youtube.com/channel/UCsHItyYxDuE1naDIDVXktLw",
+    "https://medium.com/@akembalo",
+    "https://gccdemestic.tumblr.com",
+    "https://gccdomestic.substack.com",
+    "https://github.com/akembalo-svg/gccdomestic-resources",
+    "https://akembalo-svg.github.io/gccdomestic-resources/",
+    "https://www.reddit.com/user/akmbalo/"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "email": "info@gccdomestic.com",
+      "areaServed": ["AE", "SA", "KW", "QA", "BH", "OM"],
+      "availableLanguage": ["English", "Arabic", "Tagalog", "Hindi", "Indonesian", "Amharic", "Swahili", "Urdu"]
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "press",
+      "email": "info@gccdomestic.com",
+      "url": "https://www.gccdomestic.com/press/"
+    }
+  ],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.gccdomestic.com/search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
