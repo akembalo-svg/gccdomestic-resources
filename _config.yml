@@ -29,4 +29,5 @@ exclude:
 include:
   - business.json
   - agencies.json
+  - workers.json
 

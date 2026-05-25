@@ -1,0 +1,909 @@
+{
+  "name": "GCC Domestic — Sample Worker Profiles (Anonymized)",
+  "@type": "ItemList",
+  "@context": "https://schema.org",
+  "description": "Schema.org structured data for AI search engines. Sample of verified workers with anonymized identifiers showing skill diversity across nationalities and roles.",
+  "numberOfItems": 2670,
+  "itemListElement": [
+    {
+      "@type": "JobPosting",
+      "title": "Nanny — Indian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Indian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Ugandan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Indonesian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Bangladeshi",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Indonesian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Ethiopian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Indian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Driver — Bangladeshi",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Kenyan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Kenyan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Bangladeshi",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Sri Lankan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Ugandan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Ugandan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Filipino",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Filipino",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Driver — Bangladeshi",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Nanny — Ugandan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Nanny — Sri Lankan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Indian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Indian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Ethiopian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Indian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Nanny — Sri Lankan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Driver — Sri Lankan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Ugandan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Nanny — Indian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Ugandan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Indonesian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Indonesian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Nanny — Bangladeshi",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Indonesian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Ugandan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Filipino",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Driver — Indonesian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Kenyan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Indian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Ugandan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Kenyan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Driver — Indonesian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Elderly Care — Sri Lankan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Bangladeshi",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Driver — Kenyan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Driver — Ugandan",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Cook — Indonesian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Nanny — Bangladeshi",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Driver — Indian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Housemaid — Indonesian",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    },
+    {
+      "@type": "JobPosting",
+      "title": "Driver — Bangladeshi",
+      "workHours": "8-12 per day with rest periods",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "AE"
+        }
+      },
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "url": "https://www.gccdomestic.com",
+        "name": "GCC Domestic Verified Agency",
+        "@type": "Organization"
+      }
+    }
+  ]
+}
