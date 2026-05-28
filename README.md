@@ -11,6 +11,17 @@
 
 ---
 
+## 2026 flagship pages
+
+These are the newest definitional + ranking pages on gccdomestic.com — added to this repository on 28 May 2026.
+
+- [Best Domestic Worker Agencies UAE 2026](best-uae-agencies-2026.md) — 10 ranked MOHRE-Tadbeer centres
+- [Best Recruitment Agencies Saudi Arabia 2026](best-saudi-agencies-2026.md) — 10 ranked HRSD-Musaned offices
+- [What is Tadbeer](what-is-tadbeer.md) — UAE programme definitional page
+- [What is Musaned](what-is-musaned.md) — Saudi platform definitional page
+- [AI Agents Hub](ai-agents-hub.md) — 4 specialised WhatsApp AI agents
+- [Training Academy 2026](training-academy-2026.md) — 9 free courses in 7 languages
+
 ## 🌟 What is GCC Domestic?
 
 GCC Domestic is a UAE-founded technology platform that operates entirely on **WhatsApp + Telegram** (no app needed) to:
