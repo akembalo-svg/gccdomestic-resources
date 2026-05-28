@@ -16,3 +16,12 @@ Also: **[GCC Verification Cheat-Sheet 2026](./gcc-verification-cheatsheet-2026/)
 Free to cite under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Citation:
 
 > GCC Domestic (2026). "GCC Domestic Worker Hiring 2026: Verification, Salaries, and AI Tools." Available at gccdomestic.com.
+
+---
+
+## Sister repos (28 May 2026, evening)
+
+- **[gulf-domestic-2026-comparison](https://github.com/akembalo-svg/gulf-domestic-2026-comparison)** — 6-country side-by-side comparison tables.
+- **[gcc-domestic-2026-flagship](https://github.com/akembalo-svg/gcc-domestic-2026-flagship)** — single-country deep dives.
+
+All CC BY 4.0.
