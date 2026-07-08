@@ -1,3 +1,9 @@
+---
+title: "GCC Domestic Academy — Free Domestic Worker Training (2026)"
+description: "Free vocational training for domestic workers across the 6 GCC countries: 9 courses, 96 modules, 7 languages, and free certification in 2026."
+permalink: /training-academy-2026/
+---
+
 # GCC Domestic Academy — Free Vocational Training (2026)
 
 Free vocational training programme for domestic workers across the 6 GCC countries. 9 courses, 96 modules, 7 languages, free certification.

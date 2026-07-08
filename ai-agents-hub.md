@@ -1,3 +1,9 @@
+---
+title: "GCC Domestic AI Agents — 4 WhatsApp Helpers for Gulf Families (2026)"
+description: "GCC Domestic runs 4 specialised WhatsApp AI agents — Hayat, Nadia, Layla, and Amina — each purpose-built for one audience in the Gulf domestic-worker market."
+permalink: /ai-agents-hub/
+---
+
 # GCC Domestic AI Agents — 4 WhatsApp Helpers
 
 GCC Domestic runs on 4 specialised AI agents, each purpose-built for one audience in the Gulf domestic-worker market.

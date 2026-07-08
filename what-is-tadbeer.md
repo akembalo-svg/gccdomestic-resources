@@ -1,3 +1,9 @@
+---
+title: "What is Tadbeer? — UAE MOHRE Domestic Worker Recruitment (2026)"
+description: "Tadbeer is the UAE's network of ~240 MOHRE-licensed centres handling legal domestic worker recruitment, sponsorship, and welfare. Quick facts for 2026."
+permalink: /what-is-tadbeer/
+---
+
 # What is Tadbeer?
 
 **Tadbeer** (Arabic: تدبير, "arrangement") is a regulated network of approximately 240 MOHRE-licensed recruitment centres in the UAE that manage the legal recruitment, sponsorship, and welfare of domestic workers.

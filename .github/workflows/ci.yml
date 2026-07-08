@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-json:
+    name: Validate JSON-LD structured data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate JSON-LD files
+        run: python3 scripts/validate_json.py
+
+  validate-frontmatter:
+    name: Validate page front matter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate Markdown front matter
+        run: python3 scripts/validate_frontmatter.py
+
+  jekyll-build:
+    name: Jekyll build (strict)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+      - name: Build site with strict front matter
+        env:
+          # jekyll-github-metadata (used by the cayman theme layout) resolves
+          # site.github via the API; the token avoids rate limits / 403s.
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAGES_REPO_NWO: ${{ github.repository }}
+        run: bundle exec jekyll build --strict_front_matter --trace

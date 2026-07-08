@@ -167,4 +167,23 @@ You are free to use any content here for any purpose, including commercial. Attr
 
 ---
 
+## ✅ Content validation (CI)
+
+Every push and pull request runs automated checks (`.github/workflows/ci.yml`):
+
+| Check | What it verifies | Script |
+|-------|------------------|--------|
+| **JSON-LD** | `*.json` parse cleanly and carry the required schema.org keys (`@context`, `@type`, non-empty `itemListElement` with typed entries) | `scripts/validate_json.py` |
+| **Front matter** | Every content page has `title`, `description`, and a well-formed `permalink` (with SEO length warnings) | `scripts/validate_frontmatter.py` |
+| **Jekyll build** | The site builds under `--strict_front_matter` against the GitHub Pages gem set | `bundle exec jekyll build` |
+
+Run the validators locally before pushing:
+
+```bash
+python3 scripts/validate_json.py
+python3 scripts/validate_frontmatter.py
+```
+
+---
+
 *Built with care for Gulf families and domestic workers. Free for families forever.*

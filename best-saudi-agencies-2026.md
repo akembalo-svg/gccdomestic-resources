@@ -1,3 +1,9 @@
+---
+title: "Best Recruitment Agencies Saudi Arabia 2026 — Top 10 Musaned Offices"
+description: "The 10 best HRSD-Musaned-licensed recruitment offices in Saudi Arabia for hiring domestic workers in 2026, with methodology and WPS e-salary mandate."
+permalink: /best-saudi-agencies-2026/
+---
+
 # Best Recruitment Agencies Saudi Arabia 2026
 
 The 10 best HRSD-Musaned-licensed offices in Saudi Arabia for hiring domestic workers in 2026.
