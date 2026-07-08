@@ -25,6 +25,15 @@ social:
 exclude:
   - LICENSE
   - "*.sh"
+  # Restore Jekyll's default excludes (a custom `exclude` list replaces them),
+  # so CI's `vendor/bundle` gems and repo tooling are not scanned as content.
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - scripts
+  - README.md
+  - NEW_PAGES_2026.md
 
 include:
   - business.json

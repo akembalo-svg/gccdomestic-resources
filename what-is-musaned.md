@@ -1,3 +1,9 @@
+---
+title: "What is Musaned? — Saudi Arabia HRSD Recruitment Platform (2026)"
+description: "Musaned is Saudi Arabia's official HRSD platform regulating ~1,400 licensed domestic worker recruitment offices nationwide. Quick facts for 2026."
+permalink: /what-is-musaned/
+---
+
 # What is Musaned?
 
 **Musaned** (Arabic: مساند, "supportive") is the official electronic platform of Saudi Arabia's HRSD that regulates ~1,400 licensed domestic worker recruitment offices nationwide.
