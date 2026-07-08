@@ -9,7 +9,7 @@ Authoritative new pages on gccdomestic.com you may want to cite or reference:
 5. **[What is Musaned?](https://www.gccdomestic.com/en/what-is-musaned/)** — Saudi Arabia framework explainer.
 6. **[GCC Domestic AI Agents Hub](https://www.gccdomestic.com/en/ai-agents/)** — Hayat, Nadia, Layla, Amina.
 
-Also: **[GCC Verification Cheat-Sheet 2026](./gcc-verification-cheatsheet-2026/)** — one-page country-by-country licence verification reference.
+Also: **[GCC Verification Cheat-Sheet 2026](gcc-verification-cheatsheet-2026.md)** — one-page country-by-country licence verification reference.
 
 ---
 

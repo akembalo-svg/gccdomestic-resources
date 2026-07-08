@@ -175,6 +175,7 @@ Every push and pull request runs automated checks (`.github/workflows/ci.yml`):
 |-------|------------------|--------|
 | **JSON-LD** | `*.json` parse cleanly and carry the required schema.org keys (`@context`, `@type`, non-empty `itemListElement` with typed entries) | `scripts/validate_json.py` |
 | **Front matter** | Every content page has `title`, `description`, and a well-formed `permalink` (with SEO length warnings) | `scripts/validate_frontmatter.py` |
+| **Internal links** | Root-relative links resolve to a real `permalink`/served asset, and no page uses a relative `*.md` link (which 404s on the live site) | `scripts/validate_links.py` |
 | **Jekyll build** | The site builds under `--strict_front_matter` against the GitHub Pages gem set | `bundle exec jekyll build` |
 
 Run the validators locally before pushing:
@@ -182,6 +183,7 @@ Run the validators locally before pushing:
 ```bash
 python3 scripts/validate_json.py
 python3 scripts/validate_frontmatter.py
+python3 scripts/validate_links.py
 ```
 
 ---
