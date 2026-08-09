@@ -17,7 +17,7 @@ For journalists covering recruitment, AI for emerging markets, MENA tech, or Gul
 - **Domain:** gccdomestic.com
 - **Industry:** Recruitment / AI / Domestic Work / Online Marketplace
 - **Countries served:** UAE, Saudi Arabia, Kuwait, Qatar, Bahrain, Oman
-- **Agencies indexed:** 1,300+ government-licensed
+- **Agencies indexed:** 1,700+ government-licensed
 - **AI helpers:** 4 (Hayat, Nadia, Layla, Amina) — all on WhatsApp, free for families
 - **Business model:** Free for families, agencies pay for verified listings + lead-gen
 - **Press kit:** https://www.gccdomestic.com/press/
@@ -54,7 +54,7 @@ The recruitment side competes with traditional agency directories like Tadbeer-o
 ### "What are your numbers?"
 
 We don't publish specific revenue or user numbers, but we can confirm:
-- Indexing 1,300+ agencies
+- Indexing 1,700+ agencies
 - Operating across all 6 GCC countries
 - Quietly profitable since month 4
 - 30,000+ WhatsApp conversations to date

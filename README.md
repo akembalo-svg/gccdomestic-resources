@@ -26,7 +26,7 @@ These are the newest definitional + ranking pages on gccdomestic.com — added t
 
 GCC Domestic is a UAE-founded technology platform that operates entirely on **WhatsApp + Telegram** (no app needed) to:
 
-1. Connect families with **1,300+ government-verified** domestic worker agencies
+1. Connect families with **1,700+ government-verified** domestic worker agencies
 2. Provide **AI helpers** ([Hayat](/hayat/), [Nadia](/nadia/), [Layla](/layla/), [Amina](/amina/)) in 8 languages
 3. Automate **MOHRE eServices** visa paperwork via UAE Pass
 4. Host **worker video profiles** + **QR-verified training certificates**
